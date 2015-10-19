@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[OneArtist]]></title>
+        <description><![CDATA[OneArtist]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 19 Oct 2015 02:40:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ivan Schuler]]></title>
+            <description><![CDATA[<h1>Ivan Schuler</h1>]]></description>
+            <link>undefinedivan-schuler/index.html</link>
+            <guid isPermaLink="false">5e81a5a9-222a-4680-a19a-9e37db32c7bd</guid>
+            <pubDate>Mon, 19 Oct 2015 02:40:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

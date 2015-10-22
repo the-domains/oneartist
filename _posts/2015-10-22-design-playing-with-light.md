@@ -17,8 +17,8 @@ keywords:
   - recalls
   - inspiration
 description: 'While I typically prefer objects that are abstractions of the thing that inspires them, Swiss design company OneArtistStudio has managed to make the literal unique. The Piano Lamp is a sleek desktop lamp made of fine woods and metal boxes that enclose the wiring, transformer, and LED lighting componets.'
-datePublished: '2015-10-22T23:55:13.982Z'
-dateModified: '2015-10-22T23:54:31.580Z'
+datePublished: '2015-10-22T23:59:02.355Z'
+dateModified: '2015-10-22T23:55:18.868Z'
 author: []
 related: []
 app_links: []

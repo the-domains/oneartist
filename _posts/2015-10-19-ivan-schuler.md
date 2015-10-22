@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-22T17:15:04.525Z'
-dateModified: '2015-10-22T17:14:57.796Z'
+datePublished: '2015-10-22T17:41:20.139Z'
+dateModified: '2015-10-22T17:41:14.226Z'
 title: Ivan Schuler
 sourcePath: _posts/2015-10-19-ivan-schuler.md
 published: true

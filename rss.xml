@@ -4,8 +4,15 @@
         <description><![CDATA[OneArtist]]></description>
         <link>https://thegrid.ai/oneartist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Oct 2015 17:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2015 17:15:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oneartist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BLUM - Lamp by OneArtistStudio " Yanko Design]]></title>
+            <description><![CDATA[<article><h1>BLUM - Lamp by OneArtistStudio " Yanko Design</h1><p>Join me on Fancy! Discover amazing stuff, collect the things you love, buy it all in one place.</p><img src="https://thefancy-media-ec6.thefancy.com/original/20120806/158340700394489035_ac3dca41b3b9.jpg"></article>]]></description>
+            <link>https://fancy.com/things/158340700394489035/BLUM---Lamp-by-OneArtistStudio-%C2%BB-Yanko-Design</link>
+            <guid isPermaLink="false">dd86630b-3548-486d-b491-1f99c0b8adac</guid>
+            <pubDate>Thu, 22 Oct 2015 17:13:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Genial trabajo de Ivan Schuler Pascasio.</p>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://ucal.edu.pe/sites/default/files/756x756_ivan11_.jpg">]]></description>
             <link>https://thegrid.ai/oneartist/98b4192f-8997-4be7-a07e-77575489e0d1/index.html</link>
             <guid isPermaLink="false">98b4192f-8997-4be7-a07e-77575489e0d1</guid>
-            <pubDate>Thu, 22 Oct 2015 17:02:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ivan Schuler Pascasio, panoramic photographer - 360Cities]]></title>
-            <description><![CDATA[<article><h1>Ivan Schuler Pascasio, panoramic photographer - 360Cities</h1><p>Founder of OneArtistStudio and independent 3D Artist working on visualization and design services using tridimensional virtual tools.</p><img src="https://cdn1.360cities.net/pano/justoneartist/01244253_Pano_Campo_02.jpg/equirect_crop_3_1/6.jpg"></article>]]></description>
-            <link>http://www.360cities.net/profile/justoneartist</link>
-            <guid isPermaLink="false">575f97e0-6dfd-484f-84e7-44e6d820d6f6</guid>
             <pubDate>Thu, 22 Oct 2015 17:02:16 GMT</pubDate>
         </item>
     </channel>

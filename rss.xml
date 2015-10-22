@@ -4,8 +4,15 @@
         <description><![CDATA[OneArtist]]></description>
         <link>https://thegrid.ai/oneartist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Oct 2015 17:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2015 17:14:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oneartist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Speedpainting "2022" - Pideo 動画検索]]></title>
+            <description><![CDATA[<article><h1>Speedpainting "2022" - Pideo 動画検索</h1><p>Speedpainting "2022"のVimeo動画。Speedpaint Sketch: Pop-Up Video。Speedpaint - stocking by vmat。Speedpaint - Twins - by vmat。Speedpaint - Spellcraft。Speedpaint - Selfportrait。</p><img src="http://img05.taifon.net/thumb/bf/8a/bf8acd1d30bb8a56.jpg"></article>]]></description>
+            <link>http://www.pideo.net/video/vimeo/fee63551e78b0c6c/</link>
+            <guid isPermaLink="false">79c6d1de-ebe8-42b1-a0b4-3334c4669cdd</guid>
+            <pubDate>Thu, 22 Oct 2015 17:13:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Lamp That Wants to Be a Flower]]></title>
             <description><![CDATA[<article><h1>The Lamp That Wants to Be a Flower</h1><p>This clever design might seem a little obvious, but it's actually quite thoughtful! The BLUM lamp's floral inspiration is apparent in its form, but it also takes inspiration from living plant's energy process. Set the plant by the window, and solar panels harvest the sun's energy to power the bright LED lights.</p><img src="http://www.yankodesign.com/images/design_news/2012/06/28/blum_01.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://issuu.com/justoneartist/docs/oneartiststudiobook</link>
             <guid isPermaLink="false">343e9151-694c-4276-b34c-9da200bb8012</guid>
             <pubDate>Thu, 22 Oct 2015 17:02:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ivan Schuler]]></title>
-            <description><![CDATA[<h1>Ivan Schuler</h1>]]></description>
-            <link>https://thegrid.ai/oneartist/ivan-schuler/index.html</link>
-            <guid isPermaLink="false">5e81a5a9-222a-4680-a19a-9e37db32c7bd</guid>
-            <pubDate>Mon, 19 Oct 2015 02:40:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

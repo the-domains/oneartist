@@ -4,8 +4,22 @@
         <description><![CDATA[OneArtist]]></description>
         <link>https://thegrid.ai/oneartist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Oct 2015 17:02:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2015 17:02:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oneartist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://ucal.edu.pe/sites/default/files/756x756_ivan11_.jpg">]]></description>
+            <link>https://thegrid.ai/oneartist/98b4192f-8997-4be7-a07e-77575489e0d1/index.html</link>
+            <guid isPermaLink="false">98b4192f-8997-4be7-a07e-77575489e0d1</guid>
+            <pubDate>Thu, 22 Oct 2015 17:02:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ivan Schuler Pascasio, panoramic photographer - 360Cities]]></title>
+            <description><![CDATA[<article><h1>Ivan Schuler Pascasio, panoramic photographer - 360Cities</h1><p>Founder of OneArtistStudio and independent 3D Artist working on visualization and design services using tridimensional virtual tools.</p><img src="https://cdn1.360cities.net/pano/justoneartist/01244253_Pano_Campo_02.jpg/equirect_crop_3_1/6.jpg"></article>]]></description>
+            <link>http://www.360cities.net/profile/justoneartist</link>
+            <guid isPermaLink="false">575f97e0-6dfd-484f-84e7-44e6d820d6f6</guid>
+            <pubDate>Thu, 22 Oct 2015 17:02:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Play With Piano Lights]]></title>
             <description><![CDATA[<article><h1>Play With Piano Lights</h1><p>The Piano is a super sexy desktop lamp crafted out of black metal and warm bright wood. It has a unique way of closing and stowing and was evidently inspired by the piano. To close the lamp, simply rotate the three elements and present it as a flat table decoration.</p><img src="http://www.yankodesign.com/images/design_news/2012/06/15/paino_lamp.jpg"></article>]]></description>

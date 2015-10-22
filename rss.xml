@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[OneArtist]]></title>
         <description><![CDATA[OneArtist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/oneartist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Oct 2015 02:40:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 22 Oct 2015 17:02:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/oneartist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OneArtistStudio print version]]></title>
+            <description><![CDATA[<article><h1>OneArtistStudio print version</h1><p>OneArtistStudio selected works 2010 Oneartiststudio is a firm that offers visualization and design services using tridimensional virtual tools.</p></article>]]></description>
+            <link>http://issuu.com/justoneartist/docs/oneartiststudiobook</link>
+            <guid isPermaLink="false">343e9151-694c-4276-b34c-9da200bb8012</guid>
+            <pubDate>Thu, 22 Oct 2015 17:02:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ivan Schuler]]></title>
             <description><![CDATA[<h1>Ivan Schuler</h1>]]></description>
-            <link>undefinedivan-schuler/index.html</link>
+            <link>https://thegrid.ai/oneartist/ivan-schuler/index.html</link>
             <guid isPermaLink="false">5e81a5a9-222a-4680-a19a-9e37db32c7bd</guid>
             <pubDate>Mon, 19 Oct 2015 02:40:38 GMT</pubDate>
         </item>

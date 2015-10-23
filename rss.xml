@@ -4,7 +4,7 @@
         <description><![CDATA[OneArtist]]></description>
         <link>https://thegrid.ai/oneartist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 00:00:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2015 00:01:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oneartist/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/oneartist/ivan-schuler/index.html</link>
             <guid isPermaLink="false">5e81a5a9-222a-4680-a19a-9e37db32c7bd</guid>
             <pubDate>Thu, 22 Oct 2015 17:41:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ivan Schuler on Pantone Canvas Gallery]]></title>
+            <description><![CDATA[<article><h1>Ivan Schuler on Pantone Canvas Gallery</h1><p>Ivan Schuler Pascasio3D Visual Designer / 3D ArtistFounder of OneArtistStudio and independent 3D artist working on visualization and design services using tridimensional virtual tools.Passionate photographer and illustrator living in Lima, Peru.Born in Switzerlandhttp://about.me/oneartiststudio</p><img src="https://mir-s3-cdn-cf.behance.net/projects/404/23022627.54c2c4cc89e1f.jpg"></article>]]></description>
+            <link>http://canvas.pantone.com/oneartiststudio</link>
+            <guid isPermaLink="false">b15deef2-adb6-4150-81cb-695d2b34cf66</guid>
+            <pubDate>Fri, 23 Oct 2015 00:00:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Play With Piano Lights]]></title>

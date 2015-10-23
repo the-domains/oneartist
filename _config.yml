@@ -1,19 +1,4 @@
-name: OneArtist
-favicon: null
-layout_spectrum: 0.48777
-typography_spectrum: 0.21243
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#0a0702'
@@ -23,6 +8,11 @@ color:
     - '#0c6a80'
   brandStrength: 1
   lightness: 0.503378
-  saturation: 0
   rhythmicContrast: 0.172297
+  saturation: 0
+cta: {}
+layout_spectrum: 1
+name: OneArtist
+opengraph: {}
 purpose: []
+typography_spectrum: 0.21243

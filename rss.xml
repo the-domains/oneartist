@@ -4,7 +4,7 @@
         <description><![CDATA[OneArtist]]></description>
         <link>https://thegrid.ai/oneartist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 25 Oct 2015 22:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2015 22:26:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oneartist/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/oneartist/ivan-schuler/index.html</link>
             <guid isPermaLink="false">5e81a5a9-222a-4680-a19a-9e37db32c7bd</guid>
             <pubDate>Thu, 22 Oct 2015 17:41:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Restaurant Table Sketch]]></title>
+            <description><![CDATA[<article><h1>Restaurant Table Sketch</h1><p>Quick sketch on the restaurant table before dinner. Website www.justoneartist.com Music from "Disappear 'til Tomorrow " Track "Visiter " on http://soundcloud.com/disappear-til-tomorrow/visiter</p><img src="http://i.vimeocdn.com/video/370079548_1280.jpg"></article>]]></description>
+            <link>https://vimeo.com/53570366</link>
+            <guid isPermaLink="false">924f9a20-1e51-4ee2-a250-ead86e11c061</guid>
+            <pubDate>Sun, 25 Oct 2015 22:26:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ivan Schuler (oneartiststudio) on about.me]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.yankodesign.com/2012/06/29/the-lamp-that-wants-to-be-a-flower/</link>
             <guid isPermaLink="false">794787cc-ae33-4c7b-9d63-b7cb8f987be9</guid>
             <pubDate>Thu, 22 Oct 2015 17:13:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Circul watch concept]]></title>
-            <description><![CDATA[<article><h1>Circul watch concept</h1><p>A concept from Peruvian designer Ivan Schuler Pascasio, a watch with minimalist design in stainless steel, characterized by numbered elements, which, placed on three different disks (hours, minutes and seconds), rotate in a circular dance that shows with elegance and style the passing of time.</p><img src="http://www.themag.it/wp-content/uploads/2011/04/2o19.jpg"></article>]]></description>
-            <link>http://www.themag.it/inspiration/2011/circul-watch-concept.html</link>
-            <guid isPermaLink="false">f095fade-983b-419c-8097-af77283a9af0</guid>
-            <pubDate>Thu, 22 Oct 2015 23:53:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

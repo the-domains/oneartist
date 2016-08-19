@@ -1,6 +1,6 @@
 name: OneArtist
 favicon: null
-layout_spectrum: 0.24088
+layout_spectrum: 0.6256317882798612
 typography_spectrum: 0.21243
 cta:
   domain: null
@@ -16,13 +16,15 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0a0702'
-    - '#173034'
-    - '#5f5a3a'
-    - '#f8a82b'
-    - '#0c6a80'
-  brandStrength: 0
-  lightness: 0.1875
-  saturation: 0
-  rhythmicContrast: 0.75
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+  brandStrength: 0.27874657744541764
+  lightness: 0.7154861728195101
+  saturation: 0.26437044725753367
+  rhythmicContrast: 0.5809660528320819
 purpose: []
+coverPrefs:
+  filter: false

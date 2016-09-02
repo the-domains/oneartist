@@ -28,6 +28,9 @@ navigation:
   - name: Twitter
     url: 'https://twitter.com/oneartiststudio'
     type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/justoneartist'
+    type: external
 favicon: null
 coverPrefs:
   filter: false

@@ -1,4 +1,3 @@
-layout_spectrum: 0.3636797699145973
 typography_spectrum: 0.19457273790612817
 color:
   brandColors:
@@ -11,13 +10,12 @@ color:
   lightness: 0.5669889149721712
   saturation: 0.7876284865196794
   rhythmicContrast: 0.09196005063131452
-coverPrefs:
-  filter: false
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dc1b23a-6932-4b56-b1c9-824800233e4a.jpg
   type: null
   appId: null
+layout_spectrum: 0.3636797699145973
 analytics:
   google: null
   facebook: null
@@ -41,7 +39,9 @@ navigation:
     url: 'https://www.facebook.com/justoneartist'
     type: external
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2e6f438-f8cb-4056-9165-21eac756aff5.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4f3ab70-e77e-449d-9290-1a726cec6800.jpg
 title: OneArtistStudio
+coverPrefs:
+  filter: false
 description: Ivan Schuler
 purpose: []

@@ -1,19 +1,4 @@
-name: OneArtist
-favicon: null
-layout_spectrum: 0.6256317882798612
 typography_spectrum: 0.21243
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#1C1D21'
@@ -25,6 +10,25 @@ color:
   lightness: 0.7154861728195101
   saturation: 0.26437044725753367
   rhythmicContrast: 0.5809660528320819
-purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6256317882798612
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: OneArtist
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Twitter
+    url: 'https://twitter.com/oneartiststudio'
+    type: external
+favicon: null
 coverPrefs:
   filter: false
+purpose: []

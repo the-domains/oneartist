@@ -32,6 +32,7 @@ navigation:
     url: 'https://www.facebook.com/justoneartist'
     type: external
 favicon: null
+title: OneArtistStudio
 coverPrefs:
   filter: false
 purpose: []

@@ -1,21 +1,23 @@
-typography_spectrum: 0.21243
+layout_spectrum: 0.3636797699145973
+typography_spectrum: 0.19457273790612817
 color:
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
-  brandStrength: 0.27874657744541764
-  lightness: 0.7154861728195101
-  saturation: 0.26437044725753367
-  rhythmicContrast: 0.5809660528320819
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+  brandStrength: 0.10374727053567767
+  lightness: 0.5669889149721712
+  saturation: 0.7876284865196794
+  rhythmicContrast: 0.09196005063131452
+coverPrefs:
+  filter: false
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dc1b23a-6932-4b56-b1c9-824800233e4a.jpg
   type: null
   appId: null
-layout_spectrum: 0.6256317882798612
 analytics:
   google: null
   facebook: null
@@ -41,7 +43,5 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2e6f438-f8cb-4056-9165-21eac756aff5.jpg
 title: OneArtistStudio
-coverPrefs:
-  filter: false
 description: Ivan Schuler
 purpose: []
